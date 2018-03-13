@@ -42,6 +42,12 @@ C 1610322 6O 70 75
 D 1610332 90 9 5 9_0
 ```
 
+Ref:
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+```
+
 ## 3. (VSCode) 编辑器操作练习.
 
 使用 VSCode 中的 Interactive Editor Playground 进行练习. 重复课堂上的操作内容. 
